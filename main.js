@@ -14,7 +14,7 @@ let car = new Image();
 let layerList = [
     {
         'image': background,
-        'src': '/images/layer_1_1.png',
+        'src': './images/layer_1_1.png',
         'position': {x: 0, y: 0},
         'blend': null,
         'opacity': 1,
